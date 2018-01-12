@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        MouseHunt AutoBot
 // @author      Ooi Keng Siang
-// @version    	2.02
+// @version    	2.03
 // @namespace   http://ooiks.com/blog/mousehunt-autobot
 // @description A simple user script to automate sounding the hunter horn in MouseHunt game / application in Facebook.
 // @include		http://mousehuntgame.com/*
@@ -97,7 +97,7 @@ var timerRefreshInterval = 1;
 // WARNING - Do not modify the code below unless you know how to read and write the script.
 
 // All global variable declaration and default value
-var scriptVersion = "2.02";
+var scriptVersion = "2.03";
 var fbPlatform = false;
 var hiFivePlatform = false;
 var mhPlatform = false;
