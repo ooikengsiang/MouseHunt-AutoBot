@@ -18,10 +18,10 @@ MouseHunt AutoBot is an advance user script to automate sounding the hunter horn
 * MouseHunt Offside Page – http://www.mousehuntgame.com/
  
 ## Browser Support
-* Mozilla Firefox with Greasemonkey / Tempermonkey add-on
+* Mozilla Firefox with Tempermonkey add-on
 * Microsoft Edge with Tempermonkey add-on
-* Opera
-* Google Chrome
+* Opera with Tempermonkey add-on
+* Google Chrome with Tempermonkey add-on
  
 ## Precautions
 * Use this script at your own risk because AutoBot script is again the rule set by MouseHunt, that is users are not allowed to use any tool to automate sounding the hunter horn.
@@ -34,5 +34,5 @@ MouseHunt AutoBot is an advance user script to automate sounding the hunter horn
 * Running in Facebook will not show any timer on the page title due to iframe problem.
 
 ## How to Install
-1. Download mousehunt-autobot.user.js to your local drive.
-2. Drag and drop on supported browser.
+1. Download MouseHunt-AutoBot.user.js to your local drive.
+2. Copy paste the entire script to a new script / update existing script in Tempermonkey.
